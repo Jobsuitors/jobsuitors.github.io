@@ -1,0 +1,24 @@
+{% if post.url %}
+  {% assign url = post.url %}
+  {% assign title = post.title %}
+{% else %}
+  {% assign url = page.url %}
+  {% assign title = page.title %}
+{% endif %}
+<div class="sharing">
+  <ul>
+    <li><a href="http://twitter.com/share?url={{site.url}}{{url}}&text={{title}}&via={{site.twitter_user}}"
+           class="custom-twitter-share-button share-button" data-url="{{ site.url }}{{ url }}"
+           data-via="{{ site.twitter_user }}"
+           data-counturl="{{ site.url }}{{url}}"></a></li>
+    {% if site.google_plus_one %}
+    <li><div class="g-plusone" data-size="{{ site.google_plus_one_size }}"></div></li>
+    {% endif %}
+    <li>
+      <a rel="nofollow" id="fb-share" class="fb-share-button share-button" type="icon_link"
+      onClick="fbs_click('{{ site.url }}{{url}}','{{title}}', '{{site.url}}/images/js.png')"
+      href="javascript: void(0)"></a></li>
+    <li><a href="mailto:?subject=Thought you might like this...&body={{title}}: {{site.url}}{{url}}"
+    class="email-share-button share-button"></a><li>
+  </ul>
+</div>

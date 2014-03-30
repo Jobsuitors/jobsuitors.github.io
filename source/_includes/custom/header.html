@@ -1,0 +1,19 @@
+<header class="navbar navbar-static-top" style="font-family:'Source
+                                                Sans Pro', sans-serif;
+                                                font-size:1.15em;" >
+  <nav class="navbar-inner">
+    <div class="container">
+      {% include navigation.html %}
+    </div>
+  </nav>
+</header>
+<hgroup style="padding-top: 1em">
+  <img src="/images/js.png" class="header_images" style="width:150px"/>
+  <br />
+  <h1 class="header_images"><a href="{{ root_url }}/"><img src="/images/title_blog.gif"
+                                     alt="{{ site.title }}"
+                                     class="header_images" /></a></h1>
+  {% if site.subtitle %}
+  <h2>{{ site.subtitle }}</h2>
+  {% endif %}
+</hgroup>

@@ -1,0 +1,21 @@
+sup, sub {
+	padding: 0 0em;
+	display: inline;
+	font-size: 60%
+}
+
+.footnotes {
+	font-size: 60%;
+  li {
+    p {
+      margin-bottom: 0;
+      -webkit-margin-before: 0.1em;
+      -webkit-margin-after: 0.1em;
+    }
+  }
+}
+
+// Put the CSS for the popup here.
+// #footnotediv{
+//	
+//}
