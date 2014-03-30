@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://Jobsuitors.github.io/sitemap.xml 
