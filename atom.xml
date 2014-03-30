@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://Jobsuitors.github.io/atom.xml" rel="self"/>
+  <link href="http://Jobsuitors.github.io/"/>
+  <updated>2014-03-29T20:20:32-07:00</updated>
+  <id>http://Jobsuitors.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[See the Team at Work]]></title>
+    <link href="http://Jobsuitors.github.io/blog/2013/11/11/see-the-team-at-work/"/>
+    <updated>2013-11-11T00:55:00-08:00</updated>
+    <id>http://Jobsuitors.github.io/blog/2013/11/11/see-the-team-at-work</id>
+    <content type="html"><![CDATA[<p>Phew! The past several months have been some of the most intense ones our team has ever seen. At the time of our last blog post, Jobsuitors was more idea than reality. We knew that we wanted to build a platform for matching jobseekers and employers, and we had a clear sense of what features we wanted to include (match percentages, personality and preference filters, etc.). However, all the features we envisioned were nothing more than scrawlings on paper and whiteboards.</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/samiur_koonty_whiteboard.jpg" width="468" height="621" title="image" alt="images"></p>
+
+<p>This was actually our very first scribble :)</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/job_page_wireframe.jpg" width="468" height="621" title="image" alt="images"></p>
+
+<p>Well, that’s all changed, now. During the summer, we flew our awesome designer friend <a href="http://irenetran.com" title="Irene Tran">Irene Tran</a> out to NYC to help us bring Jobsuitors to life.</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/irene_1_up.jpg" width="468" height="621" title="image" alt="images"></p>
+
+<p>After taking one look at Steve’s preliminary (and truly <a href="http://imgur.com/Um7EiUd">inspired</a>) designs, Irene confirmed that her help was very much needed.</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/skill_favorability.png" width="621" height="468" title="image" alt="images"></p>
+
+<p>True to form, Irene came in and totally schooled us on design and UI/UX principles. In a few short weeks, Irene took Jobsuitors from this:</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/candidate_profile2.jpg" width="621" height="468" title="image" alt="images"></p>
+
+<p>..to this!</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/recruiter_dashboard.png" width="621" height="428" title="image" alt="images"></p>
+
+<p>After Irene saved the day with her designs, we eagerly moved into development! But by the end of summer, our leases ran out in New York City, so we opted to explore new territory out west and decide whether Seattle could trump NYC as an ideal launch city. Our first item on the Seattle agenda was to fashion the apartment into a functional coworking space.</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/coworking1.jpg" width="621" height="428" title="image" alt="images"></p>
+
+<p>and&hellip;voilà!</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/coworking2.jpg" width="621" height="428" title="image" alt="images"></p>
+
+<p>Next, we set to work on development and internal bug fixing!</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/founders_working_in_seattle.png" width="621" height="428" title="image" alt="images"></p>
+
+<p>By late September, we were, at long last, ready to launch the alpha version of our jobseeker portal. And launch it we did!</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/robot4.png" width="621" height="428" title="image" alt="images"></p>
+
+<p>All you jobseekers should go see it for yourselves! Register and claim your own unique jobseeker URL here: <a href="http://alpha.jobsuitors.com">alpha.jobsuitors.com</a>. Are you as excited as we get during our weekly Google Hangouts?</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/irene_steve_samiur_surprised.png" width="621" height="428" title="image" alt="images"></p>
+
+<p>What’s next? EMPLOYER PORTALS! We’re finishing up alpha development for our employer portal which will allow all our eager employer alpha testers to finally get in, post their jobs, and start browsing through the top applicants that our algorithm can serve up!</p>
+
+<p>What’s after that? I don’t quite know, but I sure hope it involves more impromptu coworking slumber parties.</p>
+
+<p><img class="center bottom-clear" src="http://Jobsuitors.github.io/images/blog_post_3/samiur_koonty_bed.jpg" width="621" height="428" title="image" alt="images"></p>
+
+<p>Wait, are you actually still reading this!? Stop it! Go over to <a href="http://alpha.jobsuitors.com">alpha.jobsuitors.com</a> and sign up! =D</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Love Letter to Employers]]></title>
+    <link href="http://Jobsuitors.github.io/blog/2013/01/26/a-love-letter-to-employers/"/>
+    <updated>2013-01-26T15:31:00-08:00</updated>
+    <id>http://Jobsuitors.github.io/blog/2013/01/26/a-love-letter-to-employers</id>
+    <content type="html"><![CDATA[<p>Dear all employers, recruiters, and HR personnel,</p>
+
+<p>It’s clear you still haven’t found your one true love &ndash; that one
+recruiting service that will be steadfast by your side for the rest of
+your life. We admired your calm patience as you suffered through your
+past relationships with the likes of that insufferable Idealist, and
+worse, the Monster. We had a glimmer of hope when you experimented
+with hip new providers like the Resumator and Taleo. But our sadness
+became all the greater when those relationships, too, proved
+mismatched and ill-fated.</p>
+
+<p>We held out hope that you would one day find true love. But we are
+tired of waiting. We want you to be happy and fulfilled, and we want
+it now. Will you give us that opportunity?</p>
+
+<p><strong>Think of what we could do&hellip;together:</strong></p>
+
+<p>Together, we can escape that terrible pile of resumes flooding your
+desk and inbox. Together, we will never again sift through
+under-qualified candidates. Together, we can end the struggle to find
+good talent. Your past providers simply weren’t cut out for helping
+you through this. They could scarcely see the problems you’ve been
+facing:</p>
+
+<ul>
+<li><p><strong>Your applicants fail to even meet basic qualifications.</strong> More than 80%
+of you admitted that the majority of your applicants weren&rsquo;t
+qualified.<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p></li>
+<li><p><strong>Hiring is really hard.</strong> In 2011, employers’ difficulty filling
+positions in the US went up 38%.<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p></li>
+<li><p><strong>You lose precious time and money in the process.</strong> Every lost employee
+costs you, both in workplace morale and in lost productivity. Even a
+minimum wage employee can cost you upwards of $3500 in turnover
+expenses.<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p></li>
+</ul>
+
+
+<p>These problems are evidence of a broken system. A system we both have
+come to despise. But why accept the status quo? Let’s rebuild it from
+the ground up! <em>Let Jobsuitors enter your life, and you will never be
+on your own again.</em></p>
+
+<p>Our greatest vow is to make the hiring process so easy, so fast, and
+so effective that you wonder how you could have ever lived without us.
+How can we deliver on this promise?</p>
+
+<table style="margin-bottom: 1.3em">
+<tr>
+<td width="110px" style="padding-bottom: 1em">
+<object data="/images/noun_project_4953.svg" style="float: left;
+box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none;"></object> 
+</td>
+<td style="padding-bottom: 1em">
+For one, we value honesty and open communication. As such, we’ll
+provide you every bit of information we can about your candidates.
+You’ll gain direct access to their social and professional networks,
+their personalities, their verifiable skills, and their real career
+and personal interests. 
+</td>
+<tr>
+<td width="110px" style="padding-bottom: 1em">
+<object data="/images/noun_project_9452.svg" style="float: left;
+box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none;"></object>
+</td>
+<td style="padding-bottom: 1em">
+We also value compatibility. We are fueled by a painstakingly crafted matching engine that connects you based on the all factors you determine to be most valuable.
+</td>
+<tr>
+<td width="110px" style="padding-bottom: 1em">
+<object data="/images/noun_project_95.svg" style="float: left;
+box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none;"></object> 
+</td>
+<td style="padding-bottom: 1em">
+Oh, and trust us, our search filter will leave you weak at the knees. Fast, intuitive, and infinitely customizable, it will make you wonder how in the world your past providers could have so devastatingly underperformed.
+</td>
+</tr>
+<tr>
+<td width="110px" style="padding-bottom: 1em">
+<object data="/images/noun_project_7067.svg" type="image/svg+xml"
+style="float: left; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none;"></object> 
+</td>
+<td style="padding-bottom: 1em">
+Lastly, we are responsive. Our entire product is designed to cater to
+your every whim. Let’s say you’re the take-charge type who likes to
+personally narrow-in on the best candidates without our algorithm’s
+help? Perfect. Filter by location? Easy. Filter by past employees of
+your competitor? Most definitely. Filter through your own company’s
+internal ranks to see whom you might have overlooked? Without a doubt.
+We’ve got you covered. 
+</td>
+</tr>
+</table>
+
+
+<p>We at Jobsuitors hereby promise to be forever faithful to you. And we’re confident that we’ll be the most compatible partner you’ve ever had.</p>
+
+<p>Sincerely yours,<br/>
+Jobsuitors</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'><p> “Building Critical Talent Pipelines.” Taleo. 2010. (Survey by the Corporate Executive Board of company recruiters.)
+  <a href='#fnref:1' rev='footnote'>↩</a></p>
+</li><li id='fn:2'><p> “Talent Shortage 2011 Survey Results.” Manpower Group.
+  2011.
+  <a href='#fnref:2' rev='footnote'>↩</a></p>
+</li><li id='fn:3'><p> <a href="http://employinsight.com/blog/2011/08/11/how-expensive-is-turnover/">&#8220;How Expensive Is Turnover?”</a> EmployInsight. 11 Aug. 2011.
+<a href='#fnref:3' rev='footnote'>↩</a></p>
+</li>
+    </ol>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Finding the One That Fits]]></title>
+    <link href="http://Jobsuitors.github.io/blog/2012/10/11/finding-the-one-that-fits/"/>
+    <updated>2012-10-11T15:31:00-07:00</updated>
+    <id>http://Jobsuitors.github.io/blog/2012/10/11/finding-the-one-that-fits</id>
+    <content type="html"><![CDATA[<p>
+We built Jobsuitors with our friends in mind. We saw them agonizing over their resumes and sending out endless cover letters. They punched their information into dime-a-dozen internet resume sites that mass-emailed it to random companies - ignoring their specialized skills, their social networks, and their preferences. So much time is wasted without producing good results. We thought there had to be a better way.
+</p>
+
+
+<p>
+Jobsuitors takes the job search and turns it on its head. We have painstakingly (and lovingly) set up a comprehensive system that matches jobseekers to employers. Jobseekers finally have one platform where they can input all of their information, find jobs that they actually want, and effortlessly apply. Meanwhile, employers can automate the process of posting positions, filtering through candidates, and vetting them. Both jobseekers and employers can pick multiple factors in our innovative search engine and weigh how much each one matters to them.
+</p>
+
+
+<p>
+So you want a job where you can code while drinking a beer? You got it. Want to work in a competitive environment on Wall Street and still get paid maternity leave? Done. Want an employee who’ll figure out the company’s next big idea and beat everyone at foosball? We’ve got you covered.
+</p>
+
+
+<p>
+We believe that the job search doesn’t have to be miserable. That hidden underneath all of the bureaucracy and red tape, there’s excitement to be had - the thrill of discovery. We believe in a process that’s more efficient, more effective, and more fun.
+</p>
+
+
+<p>
+The time has come, friends. Let’s find you the one that fits.
+</p>
+
+
+<p>
+See you on the other side,</br>
+<i>The Jobsuitors Team</i>
+</p>
+
+]]></content>
+  </entry>
+  
+</feed>
